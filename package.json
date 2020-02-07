@@ -1,0 +1,24 @@
+{
+    "name": "cordova-plugin-tensorflow-lite",
+    "version": "0.0.1",
+    "description": "TensorFlow Lite text classification for Cordova",
+    "cordova": {
+        "id": "cordova-plugin-tensorflow-lite",
+        "platforms": [
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/terryli0925/cordova-plugin-tensorflow-lite"
+    },
+    "keywords": [
+        "cordova",
+        "tensorflow",
+        "tensorflow lite",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "author": "Terry Li",
+    "license": "MIT"
+}
